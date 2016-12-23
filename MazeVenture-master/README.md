@@ -1,4 +1,2 @@
-
-This is a simple “world exploration” game created with the Unity 3D Game Engine using a mix of 3D models and C# code created by Erik M. Buck specifically for this project and free assets from the Unity Asset Store. The player controls a 3D avatar and explores a procedurally generated maze with walls, rooms, doors, trees, stairs, and more. The maze is never the same twice, and it provides an “endless” world. When the edge of existing content is reached, more maze is generated.
-
-Procedural maze generation was inspired by Catlike Coding's Unity tutorial: http://catlikecoding.com/unity/tutorials/maze/. The Maze generation has been extended in numerous ways beyond the tutorial including multi-level mazes, trees, stairs, wall types, railings and banisters, physics, etc.
+this is a simple Unity project, with simple menu, animation(one person) who is in the labirint, and he has an aim to overcome all obstacles to get a status "winner" or he will never go out from this labirint. There some sounds and very cool effects. The last but not least is a counting points is also with animation staff.
+Just Enjoy with it, cause I get a lot of time to do such cool thing!
